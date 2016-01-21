@@ -2,7 +2,7 @@
 # including some code snippets below that you should find helpful
 myvar = 'He said "hello".'
 myage = 27
-mylist = ['this', that', 'theother']
+mylist = ['this',that','theother']
 mynumlist = [1,15,25,35]
 listlength = len(mylist)
 # import scraperwiki
